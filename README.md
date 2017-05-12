@@ -12,7 +12,7 @@ Whoever is closest to this price will receive a prize that is deposited at follo
 
 Here are contestants with price prediction and corresponding BTC adddress
 
-Bartek:    xxxx ; 1DAPWKGS6aPFSTGNZ2juudGkpJHxDGR5C9
+Bartek:    xxxx ; 14xpywHEi44ganQ9AEtBgUXC5z617zq4GG
 Jarek:
 Krzysiek:
 Elemer:
@@ -21,4 +21,4 @@ Sheldon:
 Robert:
 
 
-below are raw payout transactions signed by each participant:
+This document will be timestamped on BTC blockchain see https://opentimestamps.org/ for validation 
