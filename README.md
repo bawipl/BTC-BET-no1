@@ -12,7 +12,7 @@ Whoever is closest to this price will receive a prize that is deposited at follo
 
 Here are contestants with price prediction and corresponding BTC adddress
 
-Bartek:   5300 
+Bartek:    xxxx ; 1DAPWKGS6aPFSTGNZ2juudGkpJHxDGR5C9
 Jarek:
 Krzysiek:
 Elemer:
