@@ -12,13 +12,11 @@ Whoever is closest to this price will his prediction receive a prize that is dep
 
 Here are contestants with price prediction and corresponding BTC adddress
 
-Bartek:    xxxx ; 14xpywHEi44ganQ9AEtBgUXC5z617zq4GG
-Jarek:
-Krzysiek:
-Elemer:
-Mateusz:
-Sheldon:
-Robert:
+Bartek:    5100 ; 14xpywHEi44ganQ9AEtBgUXC5z617zq4GG
+Jarek: 
+Elemer:  3578
+Sheldon: 1100
+Robert: 1700
 
 
 This document will be timestamped on BTC blockchain see https://opentimestamps.org/ for validation 
